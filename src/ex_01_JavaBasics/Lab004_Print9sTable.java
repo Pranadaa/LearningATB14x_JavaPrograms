@@ -12,7 +12,7 @@ public class Lab004_Print9sTable {
         System.out.printf("%d * 6=%d%n",table, table *6);
         System.out.printf("%d * 7=%d%n",table, table *7);
         System.out.printf("%d * 8=%d%n",table, table *8);
-        System.out.printf("%d * 9=%d%n",table, table *9);
+        System.out.printf("%d * 9=%d",table, table *9).println(); //another way for new line
         System.out.printf("%d * 10=%d%n",table, table *10);
 
 
